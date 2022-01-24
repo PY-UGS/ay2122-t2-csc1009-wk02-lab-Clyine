@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-
-
 public class Question1 {
     static final double PI=3.14159;
     
@@ -11,9 +9,6 @@ public class Question1 {
         double radius = input.nextDouble();
         double area = PI * Math.pow(radius, 2);
         System.out.println("The area for the circle of radius " + radius +" is " + area);
-        
-        
-        
         input.close();
 
     }

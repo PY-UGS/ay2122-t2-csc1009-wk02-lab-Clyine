@@ -1,3 +1,4 @@
+
 public class Question3 {
     public static void main(String[] args){
         long millis = System.currentTimeMillis();
@@ -10,3 +11,4 @@ public class Question3 {
         System.out.println("Current time is " + CurrentHrs + ":" + CurrentMin + ":" + CurrentSec + " GMT");
     }
 }
+
